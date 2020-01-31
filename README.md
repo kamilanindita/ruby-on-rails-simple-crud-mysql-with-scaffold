@@ -1,6 +1,6 @@
 # ruby-on-rails-simple-crud-with-scaffold
 <br><br>
-#Installation <br>
+## Installations <br>
 1. rails new ruby-on-rails-simple-crud-with-scaffold  -d mysql <br>
 2. cd uby-on-rails-simple-crud-with-scaffold <br>
 3. setting databaste connection <br>
