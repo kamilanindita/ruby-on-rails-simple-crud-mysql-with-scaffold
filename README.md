@@ -1,4 +1,4 @@
-# ruby-on-rails-simple-crud-with-scaffold
+# ruby-on-rails-simple-crud-mysql-with-scaffold
 <br><br>
 ## Installations <br>
 1. rails new ruby-on-rails-simple-crud-with-scaffold  -d mysql <br>
